@@ -2,6 +2,7 @@ import './App.css';
 
 import Navbar from './components/Navbar';
 import Home from './components/Home';
+import Skills from './components/Skills';
 
 export default function Gallery(){
 
@@ -12,7 +13,7 @@ export default function Gallery(){
       </header>
       <main className='row'>
         <Home />
-        <section className='skills' id='skills'></section>
+        <Skills />
         <section className='projects' id='projects'></section>
         <section className='resume' id='resume'></section>
       </main>
