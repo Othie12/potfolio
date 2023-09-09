@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -36,3 +37,18 @@
     transform: rotate(360deg);
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.whitebg {
+  border-radius: 15px;
+  padding: 40px;
+  box-shadow:0 0 60px rgba(150,200,0,0.8) inset;
+}
+
+/*
+.bigman {
+  background-color: black;
+}*/
