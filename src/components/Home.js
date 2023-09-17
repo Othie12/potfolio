@@ -18,13 +18,13 @@ export default function Home(){
         },
     };
     return(
-        <section className="row col-12 col-md-12" id="home" style={{marginTop: 30}}>
-            <div className="col-12 col-md-3">
-                <img className="" src={me.picture} alt="mainImg" style={{width: "100%", borderRadius: "5%"}}/>
+        <section className="" id="home" style={{marginTop: 30}}>
+            <div className="float-left w-60">
+                <img className="rounded-full w-full" src={me.picture} alt="mainImg" />
             </div>
-            <div className="col-12 col-md-9">
+            <div className="">
                 <h2>{me.name}</h2>
-                <div style={{borderTopStyle: "solid", padding: 20, display: "flex"}}>
+                <div>
                     <img src={degreeIcon} style={{width: 50}} />
                     {me.certificate}
                 </div>
