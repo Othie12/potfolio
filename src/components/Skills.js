@@ -1,12 +1,28 @@
 import React from "react";
-import profilepic from "../pictures/profilepic.jpg";
-
+import aws from '../pictures/aws-2.svg';
+import docker from '../pictures/docker.svg';
+import git from '../pictures/git-icon.svg';
+import golang from '../pictures/golang-1.svg';
+import laravel from '../pictures/laravel-2.svg';
+import linux from '../pictures/linux-tux.svg';
+import mysql from '../pictures/mysql-logo.svg';
+import postgre from '../pictures/postgresql.svg';
+import reactlogo from '../pictures/react-2.svg';
+import github from '../pictures/git-icon.svg';
 
 export default function Skills(){
+    let skills = [aws, docker, git, golang, laravel, linux, mysql, postgre, reactlogo, github];
+    let skillList = skills.map( skill => 
+        <div className="h-50">
+            <img src={skill} className="w-20" alt="icon" />
+        </div>
+        );
     return(
-        <div className="container mx-auto px-4 columns-2" id="skills">
-            <iframe className="w-full aspect-square rounded-md" width="560" height="315" src="https://www.youtube.com/embed/-ms8enQVgg0?si=JA4bk00rpu9AiiAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <img className="w-full aspect-square rounded-md" src={profilepic} alt="profile image" />
+        <div className="mt-10 " id="skills">
+            <div className="font-bold text-center text-4xl text-slate-200">Skills</div>
+            <div className="bg-white/50 mx-auto columns-5 backdrop-blur-sm border-2 rounded-lg p-5" >
+                {skillList}
+            </div>
         </div>
     )
 }

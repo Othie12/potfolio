@@ -7,11 +7,11 @@ import Skills from './components/Skills';
 export default function Gallery(){
 
   return (
-    <div className='container bigman'>
-      <header>
+    <div className="container bg-gradient-to-r from-purple-600 to to-blue-400">
+      <header className='sticky top-0 z-50'>
         <Navbar />
       </header>
-      <main className='row'>
+      <main className='row px-5 md:px-10 pt-5'>
         <Home />
         <Skills />
         <section className='projects' id='projects'></section>
