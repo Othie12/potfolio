@@ -8,7 +8,7 @@ import linux from '../pictures/linux-tux.svg';
 import mysql from '../pictures/mysql-logo.svg';
 import postgre from '../pictures/postgresql.svg';
 import reactlogo from '../pictures/react-2.svg';
-import github from '../pictures/git-icon.svg';
+import github from '../pictures/github-icon-1.svg';
 
 export default function Skills(){
     let skills = [aws, docker, git, golang, laravel, linux, mysql, postgre, reactlogo, github];
