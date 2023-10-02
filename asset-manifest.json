@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/potfolio/static/css/main.1c094050.css",
-    "main.js": "/potfolio/static/js/main.60ae9b91.js",
+    "main.css": "/potfolio/static/css/main.4535072d.css",
+    "main.js": "/potfolio/static/js/main.4eff6cef.js",
     "static/js/787.e94b3587.chunk.js": "/potfolio/static/js/787.e94b3587.chunk.js",
     "static/media/linux-tux.svg": "/potfolio/static/media/linux-tux.819fe3f9553ed05f38fd412c04747927.svg",
+    "static/media/lim.png": "/potfolio/static/media/lim.6dbdafe5f582a4bcb97f.png",
+    "static/media/grace-repo.png": "/potfolio/static/media/grace-repo.f78e69d9a3c78f25cc8d.png",
+    "static/media/sms.png": "/potfolio/static/media/sms.5a8c5edfb358686b2539.png",
     "static/media/profilepic.jpg": "/potfolio/static/media/profilepic.990ce4f44b81e400f2ab.jpg",
+    "static/media/linkedin.png": "/potfolio/static/media/linkedin.263dd706503b35b22338.png",
     "static/media/docker.svg": "/potfolio/static/media/docker.3253a6fe64f326e90f1716b7069eeeb8.svg",
     "static/media/postgresql.svg": "/potfolio/static/media/postgresql.ae92b576b8ea41666538c0756df27969.svg",
     "static/media/mysql-logo.svg": "/potfolio/static/media/mysql-logo.f586030ae346497d3d321e6203efeead.svg",
@@ -12,15 +16,16 @@
     "static/media/react-2.svg": "/potfolio/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
     "static/media/github-icon-1.svg": "/potfolio/static/media/github-icon-1.e0d7d7254ac0545743fc7af09c1e977b.svg",
     "static/media/laravel-2.svg": "/potfolio/static/media/laravel-2.ba995bd47e3a7cc141cc1c9aaa1ac583.svg",
+    "static/media/c-1.svg": "/potfolio/static/media/c-1.21a8fab81e76bf019238a55c1c88198c.svg",
     "static/media/golang-1.svg": "/potfolio/static/media/golang-1.bdb19ee86fae51fd099ec6ad73f1c26a.svg",
     "static/media/git-icon.svg": "/potfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "index.html": "/potfolio/index.html",
-    "main.1c094050.css.map": "/potfolio/static/css/main.1c094050.css.map",
-    "main.60ae9b91.js.map": "/potfolio/static/js/main.60ae9b91.js.map",
+    "main.4535072d.css.map": "/potfolio/static/css/main.4535072d.css.map",
+    "main.4eff6cef.js.map": "/potfolio/static/js/main.4eff6cef.js.map",
     "787.e94b3587.chunk.js.map": "/potfolio/static/js/787.e94b3587.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c094050.css",
-    "static/js/main.60ae9b91.js"
+    "static/css/main.4535072d.css",
+    "static/js/main.4eff6cef.js"
   ]
 }
