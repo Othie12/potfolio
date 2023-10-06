@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/potfolio/static/css/main.4535072d.css",
-    "main.js": "/potfolio/static/js/main.4eff6cef.js",
-    "static/js/787.e94b3587.chunk.js": "/potfolio/static/js/787.e94b3587.chunk.js",
+    "main.css": "/potfolio/static/css/main.7433f331.css",
+    "main.js": "/potfolio/static/js/main.313d37e9.js",
+    "static/js/512.9b953746.chunk.js": "/potfolio/static/js/512.9b953746.chunk.js",
     "static/media/linux-tux.svg": "/potfolio/static/media/linux-tux.819fe3f9553ed05f38fd412c04747927.svg",
     "static/media/lim.png": "/potfolio/static/media/lim.6dbdafe5f582a4bcb97f.png",
     "static/media/grace-repo.png": "/potfolio/static/media/grace-repo.f78e69d9a3c78f25cc8d.png",
@@ -20,12 +20,12 @@
     "static/media/golang-1.svg": "/potfolio/static/media/golang-1.bdb19ee86fae51fd099ec6ad73f1c26a.svg",
     "static/media/git-icon.svg": "/potfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "index.html": "/potfolio/index.html",
-    "main.4535072d.css.map": "/potfolio/static/css/main.4535072d.css.map",
-    "main.4eff6cef.js.map": "/potfolio/static/js/main.4eff6cef.js.map",
-    "787.e94b3587.chunk.js.map": "/potfolio/static/js/787.e94b3587.chunk.js.map"
+    "main.7433f331.css.map": "/potfolio/static/css/main.7433f331.css.map",
+    "main.313d37e9.js.map": "/potfolio/static/js/main.313d37e9.js.map",
+    "512.9b953746.chunk.js.map": "/potfolio/static/js/512.9b953746.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4535072d.css",
-    "static/js/main.4eff6cef.js"
+    "static/css/main.7433f331.css",
+    "static/js/main.313d37e9.js"
   ]
 }
