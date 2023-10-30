@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/potfolio/static/css/main.22dc8f49.css",
-    "main.js": "/potfolio/static/js/main.fd0fbea1.js",
+    "main.css": "/potfolio/static/css/main.d0748a64.css",
+    "main.js": "/potfolio/static/js/main.712db8a2.js",
     "static/js/512.9b953746.chunk.js": "/potfolio/static/js/512.9b953746.chunk.js",
     "static/media/linux-tux.svg": "/potfolio/static/media/linux-tux.819fe3f9553ed05f38fd412c04747927.svg",
     "static/media/lim.png": "/potfolio/static/media/lim.6dbdafe5f582a4bcb97f.png",
+    "static/media/stones.jpg": "/potfolio/static/media/stones.e0d11c0d86753f9d3794.jpg",
     "static/media/grace-repo.png": "/potfolio/static/media/grace-repo.f78e69d9a3c78f25cc8d.png",
     "static/media/sms.png": "/potfolio/static/media/sms.5a8c5edfb358686b2539.png",
-    "static/media/background.jpg": "/potfolio/static/media/background.7f6c028a37dfc783fb8c.jpg",
     "static/media/profilepic.jpeg": "/potfolio/static/media/profilepic.f7f7116070886a4762e0.jpeg",
     "static/media/linkedin.png": "/potfolio/static/media/linkedin.263dd706503b35b22338.png",
     "static/media/docker.svg": "/potfolio/static/media/docker.3253a6fe64f326e90f1716b7069eeeb8.svg",
@@ -21,12 +21,12 @@
     "static/media/golang-1.svg": "/potfolio/static/media/golang-1.bdb19ee86fae51fd099ec6ad73f1c26a.svg",
     "static/media/git-icon.svg": "/potfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "index.html": "/potfolio/index.html",
-    "main.22dc8f49.css.map": "/potfolio/static/css/main.22dc8f49.css.map",
-    "main.fd0fbea1.js.map": "/potfolio/static/js/main.fd0fbea1.js.map",
+    "main.d0748a64.css.map": "/potfolio/static/css/main.d0748a64.css.map",
+    "main.712db8a2.js.map": "/potfolio/static/js/main.712db8a2.js.map",
     "512.9b953746.chunk.js.map": "/potfolio/static/js/512.9b953746.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22dc8f49.css",
-    "static/js/main.fd0fbea1.js"
+    "static/css/main.d0748a64.css",
+    "static/js/main.712db8a2.js"
   ]
 }
